@@ -1,0 +1,9 @@
+# Ignore dataset
+images/
+*.pkl
+*.zip
+
+# Ignore temporary files
+__pycache__/
+*.ipynb_checkpoints/
+venv/
